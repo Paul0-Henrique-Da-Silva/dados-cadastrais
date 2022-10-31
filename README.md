@@ -1,6 +1,5 @@
 
 ## Instalando Dependências
-> Backend
 ```bash
 cd dados-cadastrais
 npm install
