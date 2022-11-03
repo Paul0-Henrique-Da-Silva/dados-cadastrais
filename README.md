@@ -8,6 +8,6 @@ docker run -p 3306:3306 --name ph_mysql -e MYSQL_ROOT_PASSWORD=sua_senha -d mysq
 docker container start ph_mysql
 ``` 
 ## Executando aplicação
-> A aplicação estará rodando na porta 3000: http://localhost:3000/ do navegador
+> A aplicação estará rodando na porta 3000: http://localhost:3000/ do navegador.
 
 ![img](dados-cadastrais.gif)
